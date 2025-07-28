@@ -22,3 +22,13 @@ public class pattern32 {
         }
     }
 }
+
+/*
+ * enter the size:
+5
+        0 
+      1 0 1 
+    2 1 0 1 2 
+  3 2 1 0 1 2 3 
+4 3 2 1 0 1 2 3 4 
+ */
