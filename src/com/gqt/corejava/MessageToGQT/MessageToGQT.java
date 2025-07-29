@@ -1,4 +1,4 @@
-package com.gqt.corejava.conditionalstatements;
+package com.gqt.corejava.MessageToGQT;
 
 import java.util.Scanner;
 
