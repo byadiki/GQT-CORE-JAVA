@@ -21,3 +21,12 @@ public class pattern25 {
 	}
 
 }
+/*
+ * enter the size:
+5
+        1 
+      1 2 3 
+    1 2 3 4 5 
+  1 2 3 4 5 6 7 
+1 2 3 4 5 6 7 8 9 
+ */
